@@ -7,4 +7,6 @@ TODO
 # How to build
 TODO
 
-#
+#Contributors
+Balerion14
+Sorann753
